@@ -1,0 +1,14 @@
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\bin\Debug\netcoreapp2.1\FirstCoreWebApi.deps.json
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\bin\Debug\netcoreapp2.1\FirstCoreWebApi.runtimeconfig.json
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\bin\Debug\netcoreapp2.1\FirstCoreWebApi.runtimeconfig.dev.json
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\bin\Debug\netcoreapp2.1\FirstCoreWebApi.dll
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\bin\Debug\netcoreapp2.1\FirstCoreWebApi.pdb
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.csprojAssemblyReference.cache
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.csproj.CoreCompileInputs.cache
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.RazorAssemblyInfo.cache
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.RazorAssemblyInfo.cs
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.AssemblyInfoInputs.cache
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.AssemblyInfo.cs
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.RazorTargetAssemblyInfo.cache
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.dll
+E:\Workspaces\eCommerce\scratch\rjing\FirstCoreWebApi\FirstCoreWebApi\obj\Debug\netcoreapp2.1\FirstCoreWebApi.pdb
